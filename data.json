@@ -1,0 +1,27 @@
+{
+    "name": "Rahil Sha",
+    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
+    "intro": "Second Year Student Computer Science Engineering Chandigarh University",
+    "skills": [{
+            "title": "HTML",
+            "rating": "85"
+        },
+        {
+            "title": "CSS",
+            "rating": "75"
+        },
+        {
+            "title": "JavaScript",
+            "rating": "50"
+        }
+        {
+            "title": "Corporate English Communication",
+            "rating": "90"
+        }
+    ],
+    "contact": {
+        "location": "Chandigarh University",
+        "phone": "8288983969",
+        "email": "rahilsha2000@gmail.com"
+    }
+}
